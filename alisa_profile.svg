@@ -14,35 +14,54 @@ size-adjust: 109%;
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           meow                   </tspan>
-<tspan x="15" y="50">        meeeeoow            </tspan>
-<tspan x="15" y="70">       poo        </tspan>
-<tspan x="15" y="90">     ,M         </tspan>
-<tspan x="15" y="110">    ]jsbkbfcks    </tspan>
-<tspan x="15" y="130">        ksdjbv    </tspan>
-<tspan x="15" y="150"> osdf    </tspan>
-<tspan x="15" y="170">  ,                        *       </tspan>
-<tspan x="15" y="190">  ' sdaav     </tspan>
-<tspan x="15" y="210">  sdva!   </tspan>
-<tspan x="15" y="230">      </tspan>
-<tspan x="15" y="250">      </tspan>
-<tspan x="15" y="270">        </tspan>
-<tspan x="15" y="290">            </tspan>
-<tspan x="15" y="310">          </tspan>
-<tspan x="15" y="330">     ` </tspan>
-<tspan x="15" y="350">                </tspan>
-<tspan x="15" y="370">              </tspan>
-<tspan x="15" y="390">              </tspan>
-<tspan x="15" y="410">                  </tspan>
-<tspan x="15" y="430">                     </tspan>
-<tspan x="15" y="450">           </tspan>
-<tspan x="15" y="470">             </tspan>
-<tspan x="15" y="490">   </tspan>
-<tspan x="15" y="510"> alisa mewo </tspan>
-</text>
+<svg width="1000px" height="540px" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ascii {
+      font-family: monospace;
+      font-size: 14px;
+      white-space: pre;
+    }
+  </style>
+  <rect width="985px" height="530px" fill="#161b22" rx="15"/>
+  <text x="15" y="30" fill="#c9d1d9" class="ascii">
+    <tspan x="15" y="30">                                                                                      .--.</tspan>
+    <tspan x="15" y="50">                                                                                     J    L</tspan>
+    <tspan x="15" y="70">                                                                                      |    |</tspan>
+    <tspan x="15" y="90">                                                                                    F    F</tspan>
+    <tspan x="15" y="110">                                                                                   J    J</tspan>
+    <tspan x="15" y="130">                                                                                  /    /</tspan>
+    <tspan x="15" y="150">                                                                                /    /</tspan>
+    <tspan x="15" y="170">                                                                              .'    /</tspan>
+    <tspan x="15" y="190">                                                      .--""--._              /     /</tspan>
+    <tspan x="15" y="210">                                                  _.-'         `-.          /     /</tspan>
+    <tspan x="15" y="230">                                       __       .'                `.       /     /</tspan>
+    <tspan x="15" y="250">                                    _-'-."`-.  J                    \     /     /</tspan>
+    <tspan x="15" y="270">                               .---(  `, _   `'|                     `.  J     /</tspan>
+    <tspan x="15" y="290">                                 `. )                                  ""     /</tspan>
+    <tspan x="15" y="310">                                  F                                          J</tspan>
+    <tspan x="15" y="330">                                  L                  |                      J</tspan>
+    <tspan x="15" y="350">                                  ` (/     /         |                      F</tspan>
+    <tspan x="15" y="370">                                   |    ._'          |                      |</tspan>
+    <tspan x="15" y="390">                                  /'`--'`.           |                      J</tspan>
+    <tspan x="15" y="410">                                  '||\   |-._        `.  ___.               |</tspan>
+    <tspan x="15" y="430">                                    `     \  `.        |/    `-            J</tspan>
+    <tspan x="15" y="450">                                           F   L       /       J           /</tspan>
+    <tspan x="15" y="470">                                           |   J      J         F         J</tspan>
+    <tspan x="15" y="490">                                           |    \     J         |        J</tspan>
+    <tspan x="15" y="510">                                           |    |L    J         J        J</tspan>
+    <tspan x="15" y="530">                                           |    FJ    |          L       |</tspan>
+    <tspan x="15" y="550">              VK                         |   J  L   |          L\      F</tspan>
+    <tspan x="15" y="570">                                           |   F  |   |           L\    J</tspan>
+    <tspan x="15" y="590">                                           F  F   |   |           | L   |</tspan>
+    <tspan x="15" y="610">                                          J  J    |   |           | |   F</tspan>
+    <tspan x="15" y="630">                                          /  )    F  J            F F  J</tspan>
+    <tspan x="15" y="650">                                         ( .'    )   F           J J  F</tspan>
+    <tspan x="15" y="670">                                         `"     (   J           /.'  J</tspan>
+    <tspan x="15" y="690">                                                 `-'           ||-' |)</tspan>
+    <tspan x="15" y="710">                                                                 '-'  </tspan>
+  </text>
+</svg>
+
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14 </tspan>
